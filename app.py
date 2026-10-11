@@ -5,7 +5,7 @@ from flask import Flask, render_template_string
 import matplotlib
 import matplotlib.pyplot as plt
 import requests
-
+jhgugkuk
 # Menggunakan backend Agg agar Matplotlib dapat berjalan tanpa tampilan GUI
 matplotlib.use('Agg')
 
