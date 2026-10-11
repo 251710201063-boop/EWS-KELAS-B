@@ -36,7 +36,7 @@ def fetch_bmkg_data():
             'kecepatan_angin_kmh': 12,
             'waktu_prediksi': datetime.now().strftime("%Y-%m-%d %H:%M")
         }
-
+joisoioisweweww  e
 def generate_charts(bmkg_suhu):
     """Me-render grafik simulasi AWS dan Validasi BMKG"""
     # Dummy data waktu 6 jam terakhir
